@@ -1,3 +1,1 @@
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
